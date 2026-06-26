@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a programming language."
+    },
+    {
+        "question": "What is AI?",
+        "answer": "AI stands for Artificial Intelligence."
+    },
+    {
+        "question": "What is CPU?",
+        "answer": "CPU is the brain of the computer."
+    }
+]
